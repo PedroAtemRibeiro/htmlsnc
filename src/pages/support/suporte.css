@@ -1,0 +1,70 @@
+@font-face {
+   font-family: 'discord1';
+   src: url(../../assets/fontes/discord1.woff2);
+}
+
+@font-face {
+   font-family: 'discord2';
+   src: url(../../assets/fontes/discord2.woff2);
+}
+
+@font-face {
+   font-family: 'discord3';
+   src: url(../../assets/fontes/discord3.woff2);
+}
+
+@font-face {
+   font-family: 'discord4';
+   src: url(../../assets/fontes/discord4.woff2);
+}
+
+@font-face {
+   font-family: 'discord5';
+   src: url(../../assets/fontes/discord5.woff2);
+}
+
+@font-face {
+   font-family: 'discord6';
+   src: url(../../assets/fontes/discord6.woff2);
+}
+
+.secao2{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   padding: 80px 0px;
+}
+
+.secao2 div{
+   display: flex;
+   flex-direction: column;
+   width: 300px;
+   
+ 
+
+}
+
+.s2-textos{
+      display: flex;
+      flex-direction: column;
+      margin-left: 70px;
+      width: 380px;
+
+}
+
+.secao2 img{
+   margin-right: 30px;
+}
+
+.s2-textos h1{
+   font: 50px 'discord6';
+   line-height: 54px;
+   margin-bottom: 10px;
+   width: 380px;
+
+}
+
+.s2-textos p{
+   font: 20px 'discord3';
+   width: 380px;
+}
